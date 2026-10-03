@@ -1,0 +1,5 @@
+Two Shapes shows two huge shapes for a child and a grandparent to call same or different. Circle, square, and triangle stay on the screen.
+
+A wrong tap stays on that pair. Six pairs live on this phone. Start again when you want the first pair.
+
+Two Shapes does not use an account, ads, or a network connection. The pairs in the app are original.

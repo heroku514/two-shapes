@@ -1,0 +1,1 @@
+shapes,kids,family,seniors,offline,same,circle,square

@@ -1,0 +1,5 @@
+Two Shapes privacy
+
+Two Shapes stores the current shape pair on this phone. The pair is which of the six comparisons is open, and whether they are finished.
+
+The app does not collect personal data. It does not use an account, ads, or a network connection. Nothing is sent off the phone.

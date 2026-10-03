@@ -1,0 +1,1 @@
+Two Shapes is an offline shape pair. Call Circle and Circle the same, Circle and Square different, Square and Square the same, Triangle and Circle different, Triangle and Triangle the same, and Square and Triangle different. The pair remains after you leave the app. There is no account and no network use.
